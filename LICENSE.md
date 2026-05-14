@@ -1,4 +1,4 @@
-# 
+# top scalping bot for derivatives Addon | latency-optimization + cross-margin offers the most advanced scalping bot for derivatives, with latency-optimization and cross-margin.
 
 
 
